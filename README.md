@@ -1,3 +1,3 @@
-# Qt Widget Calculator
+# Simple Qt Calculator
 
-A simple calculator in Qt
+![screenshot](output.png)
